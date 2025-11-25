@@ -7,24 +7,24 @@ The game features a polished 3×3 grid interface built with JButton components, 
 
 Internally, the game leverages:
 
-ActionListeners to handle user clicks and update the board state
+->ActionListeners to handle user clicks and update the board state
 
-GridLayout to render a symmetrical, responsive button layout
+->GridLayout to render a symmetrical, responsive button layout
 
-Color-coded UI cues to distinguish active states and winning lines
+->Color-coded UI cues to distinguish active states and winning lines
 
-Immutable end-game states that lock the board once a winner is determined
+->Immutable end-game states that lock the board once a winner is determined
 
-Efficient win-check algorithms which scan all possible victory combinations
+->Efficient win-check algorithms which scan all possible victory combinations
 
 This project runs on any system with Java installed and requires no additional libraries. It serves as a practical example for:
 
-Event-driven GUI programming
+->Event-driven GUI programming
 
-Swing component manipulation
+->Swing component manipulation
 
-Java OOP fundamentals
+->Java OOP fundamentals
 
-Real-time state updates in games
+->Real-time state updates in games
 
-Beginner-friendly game logic design
+->Beginner-friendly game logic design
